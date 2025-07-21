@@ -1,0 +1,14 @@
+{
+    "name": "Phantom Hourglass Archipelago",
+    "game_name": "Phantom Hourglass",
+    "package_version": "0.2",
+    "package_uid": "PH_ap",
+    "author": "DarrklingMuffin & ZobeePlays",
+    "variants": {
+        "Full Tracker": {
+            "display_name": "Item Tracker",
+            "flags": ["ap"]
+        },
+    },
+    "min_poptracker_version": "0.27.0"
+}

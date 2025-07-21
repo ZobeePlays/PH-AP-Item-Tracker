@@ -1,0 +1,97 @@
+{
+    "tracker_broadcast": {
+        "type": "container",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "5,5,5,5",
+        "item_size": "50,50",
+        "rows":[
+                            [
+                                "crimsoninelabel",
+                                "aquaninelabel",
+                                "azurinelabel",
+                                "additionallabel1",
+                                "additionallabel2",
+                                "additionallabel3",
+                                "additionallabel4",
+                                "additionallabel5"
+                            ],
+                            [
+                                "crimsonine",
+                                "azurine",
+                                "aquanine",
+                                "additional1",
+                                "additional2",
+                                "additional3",
+                                "additional4",
+                                "additional5"
+                            ],
+                            [
+                                "sword",
+                                "boomerang",
+                                "bombs",
+                                "bow",
+                                "bombchu",
+                                "grapplinghook",
+                                "hammer",
+                                "shovel"
+                            ],
+                            [
+                                "swseachart",
+                                "nwseachart",
+                                "seseachart",
+                                "neseachart",
+                                "sunkey",
+                                "ghostkey",
+                                "kingskey",
+                                "regalnecklace"
+                            ],
+                            [
+                                "cannon",
+                                "salvagearm",
+                                "spiritofpower",
+                                "spiritofwisdom",
+                                "spiritofcourage",
+                                "powergem",
+                                "wisdomgem",
+                                "couragegem"
+                            ],
+                            [
+                                "blade",
+                                "couragecrest",
+                                "triforcecrest",
+                                "clothes",
+                                "kaleidoscope",
+                                "notebook",
+                                "woodheart",
+                                "scroll",
+                            ],
+                            [
+                                "fishingrod",
+                                "cycloneslate",
+                                "warpx",
+                                "warpphi",
+                                "warpn",
+                                "warpomega",
+                                "warpw",
+                                "warpsquare"
+                            ],
+                            [
+                                "ToKSmall",
+                                "MPSmall",
+                                "funny",
+                                "FIRSmall",
+                                "WNDSmall",
+                                "CRGSmall",
+                                "ICESmall",
+                                "MUTSmall"
+                            ]
+                ]
+            }
+        ]
+    }
+}
