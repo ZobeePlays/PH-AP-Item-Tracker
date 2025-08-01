@@ -195,12 +195,12 @@
         "allow_disabled": true,
         "stages": [
 	    {
-                "name": "Has",
+                "name": "Crimsonine",
                 "img": "images/items/Crimsonine.png",
                 "codes": "Crimsonine"
             },
 	    {
-                "name": "Off",
+                "name": "Crimsonine not in pool",
                 "img": "images/items/Crimsonine.png",
                 "img_mods": "overlay|/images/items/xoverlay.png",
                 "codes": "Crimsonine"
@@ -215,12 +215,12 @@
         "allow_disabled": true,
         "stages": [
 	    {
-                "name": "Has",
+                "name": "Azurine",
                 "img": "images/items/Azurine.png",
                 "codes": "Azurine"
             },
 	    {
-                "name": "Off",
+                "name": "Azurine not in pool",
                 "img": "images/items/Azurine.png",
                 "img_mods": "overlay|/images/items/xoverlay.png",
                 "codes": "Azurine"
@@ -235,12 +235,12 @@
         "allow_disabled": true,
         "stages": [
 	    {
-                "name": "Has",
+                "name": "Aquanine",
                 "img": "images/items/Aquanine.png",
                 "codes": "Aquanine"
             },
 	    {
-                "name": "Off",
+                "name": "Aquanine not in pool",
                 "img": "images/items/Aquanine.png",
                 "img_mods": "overlay|/images/items/xoverlay.png",
                 "codes": "Aquanine"
@@ -255,12 +255,12 @@
         "allow_disabled": true,
         "stages": [
 	    {
-                "name": "Has",
+                "name": "Additional Pure Metal",
                 "img": "images/items/additional2.png",
                 "codes": "additional1"
             },
 	    {
-                "name": "Off",
+                "name": "Additional Pure Metal not in pool",
                 "img": "images/items/additional2.png",
                 "img_mods": "overlay|/images/items/xoverlay.png",
                 "codes": "additional1"
@@ -280,7 +280,7 @@
                 "codes": "additional2"
             },
 	    {
-                "name": "Off",
+                "name": "not in pool",
                 "img": "images/items/additional2.png",
                 "img_mods": "overlay|/images/items/xoverlay.png",
                 "codes": "additional2"
@@ -300,7 +300,7 @@
                 "codes": "additional3"
             },
 	    {
-                "name": "Off",
+                "name": "not in pool",
                 "img": "images/items/additional2.png",
                 "img_mods": "overlay|/images/items/xoverlay.png",
                 "codes": "additional3"
@@ -320,7 +320,7 @@
                 "codes": "additional4"
             },
 	    {
-                "name": "Off",
+                "name": "not in pool",
                 "img": "images/items/additional2.png",
                 "img_mods": "overlay|/images/items/xoverlay.png",
                 "codes": "additional4"
@@ -340,7 +340,7 @@
                 "codes": "additional5"
             },
 	    {
-                "name": "Off",
+                "name": "not in pool",
                 "img": "images/items/additional2.png",
                 "img_mods": "overlay|/images/items/xoverlay.png",
                 "codes": "additional5"
@@ -843,7 +843,7 @@
     },
     {
         "name": "Spirit of Power",
-        "type": "progressive",
+        "type": "progressive_toggle",
         "img": "images/items/leaf.png",
         "stages": [
 			{
@@ -866,7 +866,7 @@
     },
     {
         "name": "Spirit of Wisdom",
-        "type": "progressive",
+        "type": "progressive_toggle",
         "img": "images/items/neri.png",
         "stages": [
 			{
@@ -889,7 +889,7 @@
     },
     {
         "name": "Spirit of Courage",
-        "type": "progressive",
+        "type": "progressive_toggle",
         "img": "images/items/ciela.png",
         "stages": [
 			{
@@ -912,7 +912,7 @@
     },
     {
         "name": "Bombchu",
-        "type": "progressive",
+        "type": "progressive_toggle",
         "img": "images/items/bombchu.png",
         "stages": [
             {
@@ -935,7 +935,7 @@
     },
     {
         "name": "Bow",
-        "type": "progressive",
+        "type": "progressive_toggle",
         "img": "images/items/bow.png",
         "stages": [
             {
@@ -958,7 +958,7 @@
     },
     {
         "name": "Bombs",
-        "type": "progressive",
+        "type": "progressive_toggle",
         "img": "images/items/bomb.png",
         "stages": [
             {
@@ -981,7 +981,7 @@
     },
     {
         "name": "Sword",
-        "type": "progressive",
+        "type": "progressive_toggle",
         "img": "images/items/sword.png",
         "stages": [
 	    {
