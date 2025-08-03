@@ -1,5 +1,299 @@
 [
     {
+        "name": "Phantom Hourglass",
+        "type": "toggle",
+        "img": "images/items/PhantomHourglass.png",
+        "codes": "Hourglass"
+    },
+    {
+        "name": "Bright Ship",
+        "type": "toggle",
+        "img": "images/items/BrightShip.png",
+        "codes": "Bright Ship"
+    },
+    {
+        "name": "Iron Ship",
+        "type": "toggle",
+        "img": "images/items/IronShip.png",
+        "codes": "Iron Ship"
+    },
+    {
+        "name": "Stone Ship",
+        "type": "toggle",
+        "img": "images/items/StoneShip.png",
+        "codes": "Stone Ship"
+    },
+    {
+        "name": "Vintage Ship",
+        "type": "toggle",
+        "img": "images/items/VintageShip.png",
+        "codes": "Vintage Ship"
+    },
+    {
+        "name": "Demon Ship",
+        "type": "toggle",
+        "img": "images/items/DemonShip.png",
+        "codes": "Demon Ship"
+    },
+    {
+        "name": "Tropical Ship",
+        "type": "toggle",
+        "img": "images/items/TropicalShip.png",
+        "codes": "Tropical Ship"
+    },
+    {
+        "name": "Dignified Ship",
+        "type": "toggle",
+        "img": "images/items/DignifiedShip.png",
+        "codes": "Dignified Ship"
+    },
+    {
+        "name": "Golden Ship",
+        "type": "toggle",
+        "img": "images/items/GoldShip.png",
+        "codes": "Golden Ship"
+    },
+    {
+        "name": "Treasure Map #1",
+        "type": "toggle",
+        "img": "images/items/treasure1.png",
+        "codes": "treasure1"
+    },
+    {
+        "name": "Treasure Map #2",
+        "type": "toggle",
+        "img": "images/items/treasure2.png",
+        "codes": "treasure2"
+    },
+    {
+        "name": "Treasure Map #3",
+        "type": "toggle",
+        "img": "images/items/treasure3.png",
+        "codes": "treasure3"
+    },
+    {
+        "name": "Treasure Map #4",
+        "type": "toggle",
+        "img": "images/items/treasure4.png",
+        "codes": "treasure4"
+    },
+    {
+        "name": "Treasure Map #5",
+        "type": "toggle",
+        "img": "images/items/treasure5.png",
+        "codes": "treasure5"
+    },
+    {
+        "name": "Treasure Map #6",
+        "type": "toggle",
+        "img": "images/items/treasure6.png",
+        "codes": "treasure6"
+    },
+    {
+        "name": "Treasure Map #7",
+        "type": "toggle",
+        "img": "images/items/treasure7.png",
+        "codes": "treasure7"
+    },
+    {
+        "name": "Treasure Map #8",
+        "type": "toggle",
+        "img": "images/items/treasure8.png",
+        "codes": "treasure8"
+    },
+    {
+        "name": "Treasure Map #9",
+        "type": "toggle",
+        "img": "images/items/treasure9.png",
+        "codes": "treasure9"
+    },
+    {
+        "name": "Treasure Map #10",
+        "type": "toggle",
+        "img": "images/items/treasure10.png",
+        "codes": "treasure10"
+    },
+    {
+        "name": "Treasure Map #11",
+        "type": "toggle",
+        "img": "images/items/treasure11.png",
+        "codes": "treasure11"
+    },
+    {
+        "name": "Treasure Map #12",
+        "type": "toggle",
+        "img": "images/items/treasure12.png",
+        "codes": "treasure12"
+    },
+    {
+        "name": "Treasure Map #13",
+        "type": "toggle",
+        "img": "images/items/treasure13.png",
+        "codes": "treasure13"
+    },
+    {
+        "name": "Treasure Map #14",
+        "type": "toggle",
+        "img": "images/items/treasure14.png",
+        "codes": "treasure14"
+    },
+    {
+        "name": "Treasure Map #15",
+        "type": "toggle",
+        "img": "images/items/treasure15.png",
+        "codes": "treasure15"
+    },
+    {
+        "name": "Treasure Map #16",
+        "type": "toggle",
+        "img": "images/items/treasure16.png",
+        "codes": "treasure16"
+    },
+    {
+        "name": "Treasure Map #17",
+        "type": "toggle",
+        "img": "images/items/treasure17.png",
+        "codes": "treasure17"
+    },
+    {
+        "name": "Treasure Map #18",
+        "type": "toggle",
+        "img": "images/items/treasure18.png",
+        "codes": "treasure18"
+    },
+    {
+        "name": "Treasure Map #19",
+        "type": "toggle",
+        "img": "images/items/treasure19.png",
+        "codes": "treasure19"
+    },
+    {
+        "name": "Treasure Map #20",
+        "type": "toggle",
+        "img": "images/items/treasure20.png",
+        "codes": "treasure20"
+    },
+    {
+        "name": "Treasure Map #21",
+        "type": "toggle",
+        "img": "images/items/treasure21.png",
+        "codes": "treasure21"
+    },
+    {
+        "name": "Treasure Map #22",
+        "type": "toggle",
+        "img": "images/items/treasure22.png",
+        "codes": "treasure22"
+    },
+    {
+        "name": "Treasure Map #23",
+        "type": "toggle",
+        "img": "images/items/treasure23.png",
+        "codes": "treasure23"
+    },
+    {
+        "name": "Treasure Map #24",
+        "type": "toggle",
+        "img": "images/items/treasure24.png",
+        "codes": "treasure24"
+    },
+    {
+        "name": "Treasure Map #25",
+        "type": "toggle",
+        "img": "images/items/treasure25.png",
+        "codes": "treasure25"
+    },
+    {
+        "name": "Treasure Map #26",
+        "type": "toggle",
+        "img": "images/items/treasure26.png",
+        "codes": "treasure26"
+    },
+    {
+        "name": "Treasure Map #27",
+        "type": "toggle",
+        "img": "images/items/treasure27.png",
+        "codes": "treasure27"
+    },
+    {
+        "name": "Treasure Map #28",
+        "type": "toggle",
+        "img": "images/items/treasure28.png",
+        "codes": "treasure28"
+    },
+    {
+        "name": "Treasure Map #29",
+        "type": "toggle",
+        "img": "images/items/treasure29.png",
+        "codes": "treasure29"
+    },
+    {
+        "name": "Treasure Map #30",
+        "type": "toggle",
+        "img": "images/items/treasure30.png",
+        "codes": "treasure30"
+    },
+    {
+        "name": "Treasure Map #31",
+        "type": "toggle",
+        "img": "images/items/treasure31.png",
+        "codes": "treasure31"
+    },
+    {
+        "name": "Swordfish Shadows",
+        "type": "toggle",
+        "img": "images/items/Shadows.png",
+        "codes": "Shadows"
+    },
+    {
+        "name": "Big Catch Lure",
+        "type": "toggle",
+        "img": "images/items/Lure.png",
+        "codes": "Lure"
+    },
+    {
+        "name": "Skippyjack",
+        "type": "toggle",
+        "img": "images/items/Skippyjack.png",
+        "codes": "Skippyjack"
+    },
+    {
+        "name": "Toona",
+        "type": "toggle",
+        "img": "images/items/Toona.png",
+        "codes": "Toona"
+    },
+    {
+        "name": "Loovar",
+        "type": "toggle",
+        "img": "images/items/Loovar.png",
+        "codes": "Loovar"
+    },
+    {
+        "name": "Rusty Swordfish",
+        "type": "toggle",
+        "img": "images/items/Swordfish.png",
+        "codes": "Swordfish"
+    },
+    {
+        "name": "Legendary Neptoona",
+        "type": "toggle",
+        "img": "images/items/Neptoona.png",
+        "codes": "Neptoona"
+    },
+    {
+        "name": "Stowfish",
+        "type": "toggle",
+        "img": "images/items/Stowfish.png",
+        "codes": "Stowfish"
+    },
+    {
+        "name": "Jolene's Letter",
+        "type": "toggle",
+        "img": "images/items/Letter.png",
+        "codes": "Letter"
+    },
+    {
         "name": "Sun Key",
         "type": "toggle",
         "img": "images/items/sunkey.png",
@@ -469,17 +763,17 @@
 	"loop": true,
         "allow_disabled": false,
         "stages": [
-	    {
+            {
                 "name": "Unknown",
                 "img": "images/items/qs.png",
                 "codes": "aquaninelabel"
             },
-	    {
+            {
                 "name": "Temple of Fire",
                 "img": "images/items/fir.png",
                 "codes": "aquaninelabel"
             },
-	    {
+            {
                 "name": "Temple of Wind",
                 "img": "images/items/wnd.png",
                 "codes": "aquaninelabel"
@@ -523,17 +817,17 @@
 	"loop": true,
         "allow_disabled": false,
         "stages": [
-	    {
+            {
                 "name": "Unknown",
                 "img": "images/items/qs.png",
                 "codes": "azurinelabel"
             },
-	    {
+            {
                 "name": "Temple of Fire",
                 "img": "images/items/fir.png",
                 "codes": "azurinelabel"
             },
-	    {
+            {
                 "name": "Temple of Wind",
                 "img": "images/items/wnd.png",
                 "codes": "azurinelabel"
@@ -577,17 +871,17 @@
 	"loop": true,
         "allow_disabled": false,
         "stages": [
-	    {
+            {
                 "name": "Unknown",
                 "img": "images/items/qs.png",
                 "codes": "additionallabel1"
             },
-	    {
+            {
                 "name": "Temple of Fire",
                 "img": "images/items/fir.png",
                 "codes": "additionallabel1"
             },
-	    {
+            {
                 "name": "Temple of Wind",
                 "img": "images/items/wnd.png",
                 "codes": "additionallabel1"
@@ -631,17 +925,17 @@
 	"loop": true,
         "allow_disabled": false,
         "stages": [
-	    {
+            {
                 "name": "Unknown",
                 "img": "images/items/qs.png",
                 "codes": "additionallabel2"
             },
-	    {
+            {
                 "name": "Temple of Fire",
                 "img": "images/items/fir.png",
                 "codes": "additionallabel2"
             },
-	    {
+            {
                 "name": "Temple of Wind",
                 "img": "images/items/wnd.png",
                 "codes": "additionallabel2"
@@ -685,17 +979,17 @@
 	"loop": true,
         "allow_disabled": false,
         "stages": [
-	    {
+            {
                 "name": "Unknown",
                 "img": "images/items/qs.png",
                 "codes": "additionallabel3"
             },
-	    {
+            {
                 "name": "Temple of Fire",
                 "img": "images/items/fir.png",
                 "codes": "additionallabel3"
             },
-	    {
+            {
                 "name": "Temple of Wind",
                 "img": "images/items/wnd.png",
                 "codes": "additionallabel3"
